@@ -1,0 +1,31 @@
+{
+  "state_name": "inline_guest_submit",
+  "transition_name": "process_submit_field_error",
+  "errors": {
+    "cvv": "Required",
+    "expiry": "Enter a valid expiration date",
+    "cardNumber": "Required",
+    "billingAddress": {
+      "givenName": "Required",
+      "familyName": "Required",
+      "line1": "Required",
+      "city": "Required",
+      "state": "Required",
+      "postcode": "Required"
+    },
+    "email": "Required",
+    "phone": "Required"
+  },
+  "inline_card_fields": "cvv:expiry:cardNumber:billingAddress.givenName:billingAddress.familyName:billingAddress.line1:billingAddress.city:billingAddress.state:billingAddress.postcode:email:phone",
+  "inline_guest_version": "2.19.4",
+  "feed_name": "payments_sdk",
+  "serverside_data_source": "checkout",
+  "context_type": "EC-Token",
+  "context_id": "7FM437054A3899514",
+  "page_session_id": "uid_ae073fe49d_mty6nty6nty",
+  "button_session_id": "uid_ae073fe49d_mty6nty6nty",
+  "version": "2.19.4",
+  "token": "7FM437054A3899514",
+  "referer_url": "www.sandbox.paypal.com",
+  "locale": "en_US"
+}

@@ -1,0 +1,19 @@
+{
+  "inline_card_fields": "cardNumber:expiry:cvv:billingAddress.country:billingAddress.givenName:billingAddress.familyName:email:isShippingToBillingAddress",
+  "shipping_address_fields": "country:givenName:familyName",
+  "state_name": "inline_guest_init",
+  "transition_name": "process_init_inline_guest",
+  "inline_guest_enabled": 1,
+  "shipping_address_collection": "CONSUMER_PASS",
+  "inline_guest_version": "2.19.4",
+  "feed_name": "payments_sdk",
+  "serverside_data_source": "checkout",
+  "context_type": "EC-Token",
+  "context_id": "7FM437054A3899514",
+  "page_session_id": "uid_ae073fe49d_mty6nty6nty",
+  "button_session_id": "uid_ae073fe49d_mty6nty6nty",
+  "version": "2.19.4",
+  "token": "7FM437054A3899514",
+  "referer_url": "www.sandbox.paypal.com",
+  "locale": "en_US"
+}

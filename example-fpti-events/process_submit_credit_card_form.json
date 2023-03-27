@@ -1,0 +1,17 @@
+{
+  "state_name": "inline_guest_submit",
+  "transition_name": "process_submit_credit_card_form",
+  "selected_payment_method": "VISA",
+  "ship_to_billing": 1,
+  "inline_guest_version": "2.19.4",
+  "feed_name": "payments_sdk",
+  "serverside_data_source": "checkout",
+  "context_type": "EC-Token",
+  "context_id": "50A77755MK367324E",
+  "page_session_id": "uid_ae073fe49d_mty6nty6nty",
+  "button_session_id": "uid_ae073fe49d_mty6nty6nty",
+  "version": "2.19.4",
+  "token": "50A77755MK367324E",
+  "referer_url": "www.sandbox.paypal.com",
+  "locale": "en_US"
+}

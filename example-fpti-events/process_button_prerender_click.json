@@ -1,0 +1,21 @@
+{
+  "button_session_id": "uid_2ce6baf18d_mtk6nte6mde",
+  "context_type": "button_session_id",
+  "context_id": "uid_2ce6baf18d_mtk6nte6mde",
+  "transition_name": "process_button_prerender_click",
+  "selected_payment_method": "paypal",
+  "feed_name": "payments_sdk",
+  "serverside_data_source": "checkout",
+  "client_id": "AdOu-W3GPkrfuTbJNuW9dWVijxvhaXHFIRuKrLDwu14UDwTTHWMFkUwuu9D8I1MAQluERl9cFOd7Mfqe",
+  "seller_id": "",
+  "page_session_id": "uid_feaad13e59_mtk6nta6mtc",
+  "referer_url": "mts.paypalcorp.com",
+  "locale": "en_US",
+  "integration_identifier": "AdOu-W3GPkrfuTbJNuW9dWVijxvhaXHFIRuKrLDwu14UDwTTHWMFkUwuu9D8I1MAQluERl9cFOd7Mfqe",
+  "pp_placement": "",
+  "sdk_name": "payments_sdk",
+  "sdk_version": "5.0.359",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+  "user_action": "commit",
+  "context_correlation_id": "f421714be75e5"
+}
