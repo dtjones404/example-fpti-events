@@ -1,0 +1,40 @@
+{
+  "_csrf": "v8skiPtDvJHZ/4yXa7DP1kW4UhP/Nqan5/zAA=",
+  "currentUrl": "https://www.paypal.com/checkoutnow?sessionID=uid_faa75afed3_mtq6ntm6ndc&buttonSessionID=uid_1bfab9f736_mtq6ntq6mty&stickinessID=uid_8da8e994d0_mja6mdg6mjk&inlinexo=false&smokeHash=&token=EC-9FM067358J747904S&fundingSource=paypal&buyerCountry=US&locale.x=en_US&commit=true&standaloneFundingSource=paypal&branded=true&clientID=ARL8skbWJwvOXk_hLkUFn5TrSThJ-Aumx0NHcYUjJ28SzI73tiZEAC-lcQfPV84pY5hIKDf7QIWYwYjS&env=production&sdkMeta=eyJ1cmwiOiJodHRwczovL3d3dy5wYXlwYWwuY29tL3Nkay9qcz9jbGllbnQtaWQ9QVJMOHNrYldKd3ZPWGtfaExrVUZuNVRyU1RoSi1BdW14ME5IY1lVakoyOFN6STczdGlaRUFDLWxjUWZQVjg0cFk1aElLRGY3UUlXWXdZalMmaW50ZWdyYXRpb24tZGF0ZT0yMDIwLTA3LTAxJmludGVudD1vcmRlciZjb21wb25lbnRzPWJ1dHRvbnMsZnVuZGluZy1lbGlnaWJpbGl0eSxtZXNzYWdlcyIsImF0dHJzIjp7ImRhdGEtdWlkIjoidWlkX2R4ZmJkenZmZmR4bmZ0b2lzd2ZienhibG9hbm50cCJ9fQ&xcomponent=1&version=5.0.359",
+  "logRecords": [
+    {
+      "evt": "state_name",
+      "data": "CPL_LATENCY_METRICS",
+      "instrument": true,
+      "timestamp": 1680015691015
+    },
+    {
+      "evt": "login_experience",
+      "data": "Hybrid Pwd Login",
+      "instrument": true,
+      "timestamp": 1680015691015
+    },
+    {
+      "evt": "login_auth_time",
+      "data": "{\"start\":1680015690543,\"tt\":472}",
+      "instrument": true,
+      "timestamp": 1680015691015
+    },
+    {
+      "evt": "status",
+      "data": "success",
+      "instrument": true,
+      "timestamp": 1680015691015
+    },
+    {
+      "evt": "context_correlation_id",
+      "data": "f805700735f55",
+      "instrument": true
+    },
+    { "evt": "serverside_data_source", "data": "checkout", "instrument": true },
+    { "evt": "intent", "data": "checkout", "instrument": true },
+    { "evt": "context_id", "data": "EC-9FM067358J747904S", "instrument": true }
+  ],
+  "intent": "checkout",
+  "_sessionID": "8yLwCaw6Q1SWFbvcOfFgnFcsEd_O4DqF"
+}

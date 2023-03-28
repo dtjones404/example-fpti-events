@@ -1,0 +1,9 @@
+{
+  "fpti": {
+    "pgrp": "main:authchallenge::checkoutnow",
+    "page": "main:authchallenge::checkoutnow",
+    "captchaState": "CLIENT_SIDE_RECAPTCHA_V3_STATIC_JS_LOADED"
+  },
+  "_csrf": "U0et7N7vlC+D6+aC4wRhSGuitnL75bfmpe8Wo=",
+  "_sessionID": "_sessionID=8yLwCaw6Q1SWFbvcOfFgnFcsEd_O4DqF"
+}
